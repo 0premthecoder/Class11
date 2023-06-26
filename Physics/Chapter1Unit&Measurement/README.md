@@ -37,3 +37,6 @@
 
 ### Rules for Significant Figures
 
+- All non-zero digits are significant.
+- Zeroes between non-zero digits are significant.
+- A trailing zero or final zero in the decimal portion only are significant.
