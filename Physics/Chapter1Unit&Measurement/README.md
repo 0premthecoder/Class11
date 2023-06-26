@@ -2,8 +2,13 @@
 
 ## Table of Contents
 
-- [Units](#units)
-- [Types of units](#types-of-units)
+- [Chapter 1 Unit and Measurements](#chapter-1-unit-and-measurements)
+  - [Table of Contents](#table-of-contents)
+  - [Units](#units)
+  - [Types of Units](#types-of-units)
+    - [There are 7 Fundamental Unit](#there-are-7-fundamental-unit)
+  - [Significant Figures](#significant-figures)
+    - [Rules for Significant Figures](#rules-for-significant-figures)
 
 ## Units
 
@@ -23,3 +28,12 @@
 | Time | Second | `s`|
 | Electric| Ampere| `A`|
 |Temperature| Kelvin| `K`|
+|Amount of Substance| mole|`mol`|
+|Luminous Intensity| candela | `cd`|
+
+## Significant Figures
+
+**Definition**: The Reliable Digits plus the first uncertain digit are known as significant figures Significant figures are used to round a number to the level of importance in the details that is most useful.
+
+### Rules for Significant Figures
+
