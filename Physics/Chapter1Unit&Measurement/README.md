@@ -8,6 +8,7 @@
   - [Types of Units](#types-of-units)
     - [There are 7 Fundamental Unit](#there-are-7-fundamental-unit)
     - [System of units](#system-of-units)
+    - [Other Unit](#other-unit)
   - [Significant Figures](#significant-figures)
     - [Rules for Significant Figures](#rules-for-significant-figures)
 
@@ -39,6 +40,12 @@
 - `MKS: metre, kilogram, second`
 - `FPS: foot, pound, second`
 - `CGS: centimetre , gram, second`
+
+### Other Unit
+
+- Plane Angle, and
+- Solid Angle
+![Other Unit](./Screenshot%202023-06-27%20201014.png)
 
 ## Significant Figures
 
