@@ -12,6 +12,7 @@
   - [Significant Figures](#significant-figures)
     - [Rules for Significant Figures](#rules-for-significant-figures)
   - [Dimensions](#dimensions)
+    - [Application of Dimension](#application-of-dimension)
 
 ## Units
 
@@ -65,6 +66,33 @@
 ## Dimensions
 
 The **dimensions** of a physical quantity are the
-powers (or exponents) to which the base
+**powers** (or exponents) to which the base
 quantities are raised to represent that
 quantity.
+
+| Base of Unit | Dimension |
+| --| --|
+| Length| `[L]`
+| Mass |`[M]`
+| Time | `[T]`
+| Temperature | `[K]`
+| Electricity | `[A]`
+|Luminous Intensity|`[mol]`
+| Luminous Intensity| `[cd]`
+
+**Dimensional Formula**: The dimensions
+of a physical quantity is called the dimensional
+formula of the given physical quantity
+
+ For example, the dimensional
+equations of volume [V], speed [v], force [F ] and
+mass density [ρ] may be expressed as
+
+[V] = $[M^0 L^3 T^0]$
+[v] = $[M^0 L T–^1]$
+[F] = $[M L T^–2]$
+[ρ] = $[M L–^3 T^0]$
+
+
+### Application of Dimension
+
