@@ -8,7 +8,7 @@
   - [Types of Units](#types-of-units)
     - [There are 7 Fundamental Unit](#there-are-7-fundamental-unit)
     - [System of units](#system-of-units)
-    - [Other Unit](#other-unit)
+    - [Supplementary  Quantities](#supplementary--quantities)
   - [Significant Figures](#significant-figures)
     - [Rules for Significant Figures](#rules-for-significant-figures)
   - [Dimensions](#dimensions)
@@ -43,7 +43,7 @@
 - `FPS: foot, pound, second`
 - `CGS: centimetre , gram, second`
 
-### Other Unit
+### Supplementary  Quantities
 
 - Plane Angle, and
 - Solid Angle
@@ -93,6 +93,14 @@ mass density [ρ] may be expressed as
 [F] = $[M L T^–2]$
 [ρ] = $[M L–^3 T^0]$
 
+**Dimensional Constant**: The physical quantities with dimensions and a fixed value are called dimensional constants. For example, gravitational constant (G), Planck’s constant (h), universal gas constant (R), velocity of light in a vacuum (C), etc.
+
+**Dimensionless Quantities**: Dimensionless quantities are those which do not have dimensions but have a fixed value.
+
+- Dimensionless quantities without units: Pure numbers, π, e, sin θ, cos θ, tan θ etc.
+
+- Dimensionless quantities with units: Angular displacement – radian, Joule’s constant – joule/calorie, etc.
+  
+**Dimensional Variables**:Dimensional variables are those physical quantities which have dimensions and do not have a fixed value. For example, velocity, acceleration, force, work, power, etc.
 
 ### Application of Dimension
-
