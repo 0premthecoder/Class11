@@ -11,6 +11,7 @@
     - [Other Unit](#other-unit)
   - [Significant Figures](#significant-figures)
     - [Rules for Significant Figures](#rules-for-significant-figures)
+  - [Dimensions](#dimensions)
 
 ## Units
 
@@ -61,3 +62,9 @@
  The calculator answer is 2,085.5688, but we need to round it to five significant figures. Because the first digit to be dropped (in the tenths place) is greater than 5, we round up to 2,085.6.
 ```
 
+## Dimensions
+
+The **dimensions** of a physical quantity are the
+powers (or exponents) to which the base
+quantities are raised to represent that
+quantity.
