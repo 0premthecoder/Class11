@@ -11,3 +11,9 @@
 Matter: Anything which has mass and occupies space is called matter. 
 
 ### States of Matter
+
+- Solid
+- Liquid
+- Gas
+
+
