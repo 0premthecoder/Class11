@@ -12,6 +12,7 @@
   - [Significant Figures](#significant-figures)
     - [Rules for Significant Figures](#rules-for-significant-figures)
   - [Dimensions](#dimensions)
+    - [Law of Homogeneity of Dimensions](#law-of-homogeneity-of-dimensions)
     - [Application of Dimension](#application-of-dimension)
 
 ## Units
@@ -102,5 +103,11 @@ mass density [ρ] may be expressed as
 - Dimensionless quantities with units: Angular displacement – radian, Joule’s constant – joule/calorie, etc.
   
 **Dimensional Variables**:Dimensional variables are those physical quantities which have dimensions and do not have a fixed value. For example, velocity, acceleration, force, work, power, etc.
+
+### Law of Homogeneity of Dimensions
+
+- In any correct equation representing the relation between physical quantities, the dimensions of all the terms must be the same on both sides. Terms separated by ‘+’ or ‘–’ must have the same dimensions.
+  
+- A physical quantity Q has dimensions a, b and c in length (L), mass (M) and time (T), respectively, and n1 is its numerical value in a system in which the fundamental units are L1, M1 and T1 and n2 is the numerical value in another system in which the fundamental units are L2, M2 and T2, respectively, then ![formula](./formula.png)
 
 ### Application of Dimension
