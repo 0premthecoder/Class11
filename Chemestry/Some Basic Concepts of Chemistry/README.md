@@ -31,3 +31,12 @@ Solid have definite shape and volume| Liquid have definite volume but no shape| 
 
 ![Matter](./image.png)
 
+- Pure Substances:  all constituent particles of a 
+substance are same in chemical nature, it 
+is said to be a pure substance.
+
+- Mixtures : A mixture contains particles of two or 
+more pure substances which may be present 
+in it in any ratio. 
+
+    - Homogeneous mixtures: Compone
