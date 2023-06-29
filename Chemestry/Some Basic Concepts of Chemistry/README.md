@@ -5,6 +5,7 @@
 - [Ch-1 Some Basic Concepts of Chemistry](ch-1-some-Basic-Concepts-of-Chemistry)
   - [Matter](matter)
     - [States of Matter](states-of-matter)
+    - [Classification of matter](classification-of-matter)
 
 ## Matter
 
@@ -26,6 +27,6 @@ Solid | Liquid | Gas
 --|--|--
 Solid have definite shape and volume| Liquid have definite volume but no shape| Gas neither have definite shape and nor volume
 
-## Classification of matter
+### Classification of matter
 
 ![Matter](./image.png)
