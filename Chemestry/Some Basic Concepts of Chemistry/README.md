@@ -39,4 +39,4 @@ is said to be a pure substance.
 more pure substances which may be present 
 in it in any ratio. 
 
-    - Homogeneous mixtures: Compone
+    - Homogeneous mixtures: Components mixed completely together.
