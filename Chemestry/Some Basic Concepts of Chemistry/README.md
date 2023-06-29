@@ -8,12 +8,24 @@
 
 ## Matter
 
-Matter: Anything which has mass and occupies space is called matter. 
+Matter: Anything which has mass and occupies space is called matter.
 
 ### States of Matter
 
-- Solid
-- Liquid
-- Gas
+- Solid : solids in an orderly fashion and there is not
+much freedom of movement.
 
+- Liquid: the particles are close to each other but they can
+move around
+- Gas:  the particles
+are far apart as compared to those present in
+solid or liquid states and their movement is
+easy and fast.
 
+Solid | Liquid | Gas
+--|--|--
+Solid have definite shape and volume| Liquid have definite volume but no shape| Gas neither have definite shape and nor volume
+
+## Classification of matter
+
+![Matter](./image.png)
