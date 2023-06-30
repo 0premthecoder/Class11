@@ -40,6 +40,15 @@ more pure substances which may be present
 in it in any ratio.
 
   - Homogeneous mixtures: Components mixed completely together.
-  - Heterogeneous mixtures: the composition is not uniform throughout
-and sometimes different components are
-visible
+  - Heterogeneous mixtures: the composition   is not uniform throughout
+  and sometimes different components are
+  visible
+
+
+## Pure Substance
+
+Pure substances have characteristics 
+different from mixtures. Constituent particles 
+of pure substances have fixed composition. 
+
+
