@@ -44,12 +44,11 @@ in it in any ratio.
   and sometimes different components are
   visible
 
-
 ## Pure Substance
 
-Pure substances have characteristics 
-different from mixtures. Constituent particles 
-of pure substances have fixed composition. 
+Pure substances have characteristics
+different from mixtures. Constituent particles
+of pure substances have fixed composition.
 
 ![Alt text](./image-1.png)
 
@@ -57,8 +56,7 @@ of pure substances have fixed composition.
 
 Elements| Compounds
 ---|--
-Elements are substances that are pure in their nature and are composed of a single atom.| Compounds are also pure substances that are composed of elements in definite proportions. 
+Elements are substances that are pure in their nature and are composed of a single atom.| Compounds are also pure substances that are composed of elements in definite proportions.
 Till now 118 elements have been discovered out of which 94 elements are naturally occurring on Earth.|Infinite number of compounds can be formed. There is no absolute number.
-| Elements can be categorized as metals, metalloids, and nonmetals.	| Compounds are divided into three categories:
-Metallic, ionic, and molecular.
-Elements are the single atoms. Hence they cannot be broken down.
+| Elements can be categorized as metals, metalloid, and nonmetals. | Compounds are divided into three categories:Metallic, ionic, and molecular.
+Elements are the single atoms. Hence they cannot be broken down. | Compounds can be broken down using chemical reactions.
