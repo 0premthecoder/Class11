@@ -60,4 +60,4 @@ Elements are substances that are pure in their nature and are composed of a sing
 Till now 118 elements have been discovered out of which 94 elements are naturally occurring on Earth.|Infinite number of compounds can be formed. There is no absolute number.
 | Elements can be categorized as metals, metalloid, and nonmetals. | Compounds are divided into three categories:Metallic, ionic, and molecular.
 Elements are the single atoms. Hence they cannot be broken down. | Compounds can be broken down using chemical reactions.
-They are represented using numbers and symbols.	| They are represented using chemical formulas.
+They are represented using numbers and symbols. | They are represented using chemical formulas.
