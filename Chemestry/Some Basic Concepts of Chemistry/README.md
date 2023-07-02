@@ -61,3 +61,7 @@ Till now 118 elements have been discovered out of which 94 elements are naturall
 | Elements can be categorized as metals, metalloid, and nonmetals. | Compounds are divided into three categories:Metallic, ionic, and molecular.
 Elements are the single atoms. Hence they cannot be broken down. | Compounds can be broken down using chemical reactions.
 They are represented using numbers and symbols. | They are represented using chemical formulas.
+
+**Physical properties**: It can be measured without changing the identity or the composition of substance.
+
+**Chemical Properties**: it requires a chemical change to occur.
